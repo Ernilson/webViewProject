@@ -1,0 +1,13 @@
+or push an existing repository from the command line
+git remote add origin https://github.com/Ernilson/webViewProject.git
+git branch -M main
+git push -u origin main
+
+
+Pendências
+- acrescentar o dominio do google e facebook como opção de login
+- falta acrescentar um menu na aba 'Oração'
+- falta fazer a validação de empyt na aba "Oração" exemplo: ao clicar em enviar ele não aceitar os campos em brancos
+- sempre que chamar a aba 'Videos' ele deve reiniciar a páginar
+- acrescentar ao Drawer uma opção de LogOut.
+- fazer a tela deslizar para proxima tela

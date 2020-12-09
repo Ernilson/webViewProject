@@ -1,0 +1,5 @@
+fazer app que:
+- liste os pedidos de oração
+e envie resposta da mesma.Exemplo: "Essa semana nós oramos por ..." 
+- faça o update do menu da cantina e ação social
+
